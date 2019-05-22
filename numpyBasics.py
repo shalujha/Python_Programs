@@ -51,6 +51,7 @@ print(np.multiply(i,j))
 print(i*j)
 print(np.divide(i,j))
 print(i/j)
+print("*************************************************")
 print(np.sqrt(i)) # can also be used to find square root
 # matrix multiplication/ Dot product
 print(i)
